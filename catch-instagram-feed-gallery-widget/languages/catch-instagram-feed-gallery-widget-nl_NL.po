@@ -1,0 +1,682 @@
+# Copyright (C) 2018-2021 Catch Plugins
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Gallery and Widget\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2021-09-16 16:10-0700\n"
+"PO-Revision-Date: 2021-09-16 16:10-0700\n"
+"Last-Translator: \n"
+"Language-Team: Catch Plugins <info@catchplugins.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_attr_e;esc_attr__;_nx;_x;"
+"esc_html_e;esc_html__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:133
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:147
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:148
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:37
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:42
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:66
+msgid "Social Gallery and Widget"
+msgstr "Welkom bij de Social Gallery and Widget instellingen"
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:163
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet genoeg bevoegdheden om deze pagina te openen “.”."
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:219
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:323
+msgid "Options saved successfully."
+msgstr "Wijzigingen succesvol opgeslagen “.”."
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:222
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:269
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:328
+msgid "Error! There was a problem."
+msgstr "Mislukt. Er deed zich een probleem voor “.”."
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:228
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:233
+msgid "Error, please try again."
+msgstr "Mislukt. Probeer het nog eens."
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:255
+msgid "Invalid Nonce!"
+msgstr "Verkeerde Nonce!"
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:264
+msgid "Logged out successfully."
+msgstr "Succesvol uitgelogd “.”."
+
+#: ../admin/partials/CatchThemesThemePlugin.php:154
+msgid "Themes by CatchThemes"
+msgstr "Themes van Catchthemes"
+
+#: ../admin/partials/CatchThemesThemePlugin.php:434
+msgctxt "Plugin Installer"
+msgid "Catch Plugins"
+msgstr "Catch Plugins"
+
+#: ../admin/partials/CatchThemesThemePlugin.php:473
+#, php-format
+msgid ""
+"You can use any of our free plugins or premium plugins from <a href=\"%s\" "
+"target=\"_blank\">Catch Plugins</a>"
+msgstr ""
+"Je kunt al onze free of premium plugins op <a href=“%s” "
+"target=“_blank”>Catch Plugins</a>"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:42
+msgid "Dismiss"
+msgstr "Afwijzen"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:47
+msgid "Welcome to Social Gallery and Widget Settings"
+msgstr "Welkom bij de  Social Gallery and Widget instellingen"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:49
+msgid ""
+"Social Gallery and Widget Plugin adds the posts from your Social account "
+"that you want to showcase on your website."
+msgstr ""
+"De Social Gallery and Widget plugin laat de posts zien van jouw social media "
+"accounts die je wil laten zien op jouw website “.”."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:51
+msgid ""
+"You can add Social Feed as Gallery or Widget on your website. Simply either "
+"drag-and-drop the plugin in the widget area or you can add a shortcode from "
+"your WordPress dashboard if you want to place a copy of your Social feed "
+"directly onto your post/page."
+msgstr ""
+"Je kunt de social feed als galerij of widget toevoegen aan jouw website. "
+"Sleep de plugin naar het widgetgebied. Het is ook mogelijk om een stortcode "
+"toe te voegen aan de gewenste pagina of post als je daar de social feed wilt "
+"laten zien."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:64
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:65
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:250
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:309
+msgid "Features"
+msgstr "Mogelijkheden"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:66
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:301
+msgid "Compare Table"
+msgstr "Vergelijking Gratis en Premium"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:73
+msgid "Add Social Feed as Gallery or Widget"
+msgstr "Voeg de Social Feed als Gallery of Widget toe"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:78
+msgid "1. Add using Widget via our Social Gallery Widget"
+msgstr ""
+"1. Voeg toe door een Widget te gebruiken met behulp van onze Social Gallery "
+"Widget"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:79
+msgid "Go to Widgets"
+msgstr "Ga naar Widgets"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:82
+msgid "2. Add using Shortcode in Page/Post "
+msgstr "2. Voeg toe door middel van een  Shortcode  in een Pagina/Post "
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:85
+msgid "Add in New:"
+msgstr "Voeg toe aan nieuwe:"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:86
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:89
+msgid "Post"
+msgstr "Post"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:86
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:89
+msgid "Page"
+msgstr "Pagina"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:89
+msgid "Add in Existing:"
+msgstr "Voeg toe aan bestaande:"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:121
+msgid "Options reset successfully."
+msgstr "Opties succesvol gereset."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:124
+msgid "Reset failed, please try again"
+msgstr "Reset mislukt, probeer het alsjeblieft opnieuw"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:132
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:153
+msgid "+ Connect an Instagram Account"
+msgstr "+ Verbind met een Instagram account"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:136
+msgid ""
+"You can show social feed from any Private social accounts by providing the "
+"Access Token. This section allows you to set API parameters."
+msgstr ""
+"Je kunt een social feed van iedere privé account laten zien door de Acces "
+"Token te gebruiken. Hier kun je de API parameters ingeven."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:144
+msgid "You are logged in as"
+msgstr "Je bent ingelogd als"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:145
+msgid "and your access token is"
+msgstr "en jouw acces token is"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:145
+msgid "Hide"
+msgstr "Verberg"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:145
+msgid "Show"
+msgstr "Laat zien"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:158
+msgid "Logout"
+msgstr "Loguit"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:170
+msgid "Catch Themes & Catch Plugins Tabs"
+msgstr "Catch Themes & Catch Plugins Tabs"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:175
+msgid ""
+"If you want to turn off Catch Themes & Catch Plugins tabs option in Add "
+"Themes and Add Plugins page, please uncheck the following option."
+msgstr ""
+"Als je de niet langer gebruik wilt maken van de Catch Themes & Catch Plugins "
+"tab  in “Voeg thema’s en plugins”, vink de volgende optie uit."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:180
+msgid "Turn On Catch Themes & Catch Plugin tabs"
+msgstr "Vink de Catch Thema’s & Catch Plugin tabs"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:202
+msgid "Go Premium!"
+msgstr "Koop de premium uitvoering!"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:207
+msgid "Dismiss this item."
+msgstr "Verwijder dit item."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:211
+#: ../admin/partials/sidebar.php:9
+msgid "Social Gallery and Widget Shortcode Generator button in Post/Page"
+msgstr ""
+"Knop voor het genereren van een Social Gallery and Widget shortcode in een "
+"post of op een pagina"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:212
+#: ../admin/partials/sidebar.php:10
+msgid "Column Options (2 to 8 columns)"
+msgstr "Aantal mogelijke kolommen (2 -8 kolommen)"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:213
+#: ../admin/partials/sidebar.php:11
+msgid "Editable load more"
+msgstr "Bewerkbare tekst laad meer zien"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:214
+#: ../admin/partials/sidebar.php:12
+msgid "Hide Load more"
+msgstr "Verberg laad meer zien"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:215
+#: ../admin/partials/sidebar.php:13
+msgid ""
+"Layout Options: Option to choose from 1. Masonry layout 2. Grid layout 3. "
+"Round layout"
+msgstr ""
+"Lay out opties: Optie om te kiezen uit 1.  Masonry lay out 2. Grid lay out "
+"3. Round lay out"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:216
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:422
+#: ../admin/partials/sidebar.php:14
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:217
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:462
+#: ../admin/partials/sidebar.php:15
+msgid "Likes &amp; Comments count"
+msgstr "Aantallen Likes &amp; commentaren"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:218
+#: ../admin/partials/sidebar.php:16
+msgid "Link to image in social post"
+msgstr "Link naar een afbeelding in een social post"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:219
+#: ../admin/partials/sidebar.php:17
+msgid "Load More option"
+msgstr "Laat meer zien optie"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:220
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:454
+#: ../admin/partials/sidebar.php:18
+msgid "Padding in-between"
+msgstr "Ruimte tussen"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:222
+#: ../admin/partials/sidebar.php:19
+msgid "Show feeds by Hashtag"
+msgstr "Laat feeds op basis van Hastags zien"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:223
+#: ../admin/partials/sidebar.php:21
+msgid "Toggle link to social post"
+msgstr "Klik op de link naar de social post"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:226
+msgid "Find out why you should upgrade to Social Gallery and Widget Premium »"
+msgstr ""
+"Ontdek waarom je de Premium versie van Social Gallery and widget zou moeten "
+"aanschaffen"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:233
+msgid "Pro Screenshot"
+msgstr "Pro schermafbeelding"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:256
+msgid "Incredible Support"
+msgstr "Zeer goede ondersteuning"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:257
+msgid ""
+"We have a great line of support team and support documentation. You do not "
+"need to worry about how to use the plugins we provide, just refer to our "
+"Tech Support Forum. Further, if you need to do advanced customization to "
+"your website, you can always hire our theme customizer!"
+msgstr ""
+"We beschikken over een uitstekend support team en support documentatie. Je "
+"hoeft je geen zorgen te maken over het gebruik van onze plugins. Als er een "
+"probleem is kun je altijd een beroep doen op ons Support Forum. En: mocht er "
+"veeleisende aanpassingen van jouw website nodig zijn, dan is het altijd "
+"mogelijk om onze consultant in te schakelen!"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:261
+msgid "Number of Posts"
+msgstr "Aantallen Posts"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:262
+msgid ""
+"You have the option to choose the number of posts you want to display on "
+"your website. Pick the number of posts that suits the best on your website."
+msgstr ""
+"Je kunt het aantal posts dat je op jouw website wil laten zien bepalen. Kies "
+"het aantal dat het best past bij jouw website."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:266
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:318
+msgid "Responsive Design"
+msgstr "Respnsive Ontwerp"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:267
+msgid ""
+"One of the key features of our plugins is that your website will magically "
+"respond and adapt to different screen sizes delivering an optimized design "
+"for iPhones, iPads, and other mobile devices. No longer will you need to "
+"zoom and scroll around when browsing on your mobile phone."
+msgstr ""
+"Een van de voornaamste eigenschappen van onze plugins, dat ze zich aanpassen "
+"aan schermafmetingen. Ze zijn ontworpen voor iPhones, iPads en andere "
+"mobiele apparaten. Inzoomen en scrollen behoren tot het verleden."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:271
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:272
+msgid ""
+"With Shortcodes, you have the option to use the powerful shortcode options "
+"to style multiple contents in completely different ways."
+msgstr ""
+"Shortcodes bieden de krachtige mogelijkheid om inhoud op geheel andere "
+"manieren vorm te geven."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:276
+msgid "Super Simple to Set Up"
+msgstr "Zeer eenvoudige installatie"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:277
+msgid ""
+"It is super easy to set up. Even the beginners can set it up easily and "
+"also, you do not need to have any coding knowledge. Just install, activate, "
+"customize it your way and enjoy the plugin."
+msgstr ""
+"De installatie is zeer eenvoudig. Zelfs voor een beginner levert dat geen "
+"problemen op. Je hebt geen programmeerkennis nodig. Het is simpel: "
+"installeren, acteren en aanpassen op de manier, waarop jij wilt. "
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:281
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:374
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:282
+msgid ""
+"Multitude of widget options provide you with the option to choose the "
+"widgets that you want to display. You can have full control over each "
+"widget’s visibility and appearance. You can assign different contents on "
+"your sidebars, footer and any sidebar widgets."
+msgstr ""
+"Je hebt zeer veel mogelijkheden om widgets te laten zien. En je hebt de "
+"volledige controle over wanneer en hoe je de widgets wil laten zien.  Je "
+"kunt bijvoorbeeld verschillende inhoud geven aan sidebars, footer an sidebar "
+"widgets."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:285
+msgid "Upgrade to Social Gallery and Widget Premium »"
+msgstr "Upgrade naar Social Callery and Widget Premium »"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:293
+msgid "Get Social Gallery and Widget Pro -"
+msgstr "Koop Sociale Gallery and Widget Pro -"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:293
+msgid "Get It Here!"
+msgstr "Koop nu!"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:294
+msgid "You are currently using the free version of Social Gallery and Widget."
+msgstr "Je gebruikt nu de gratis versie van Social Gallery and Widget."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:295
+msgid ""
+"If you have purchased from catchplugins.com, then follow this link to the "
+"installation instructions (particularly step 1)."
+msgstr ""
+"Als je een catch plugin hebt aangeschaft, klik dan op deze link naar de "
+"installatie instructies (in het bijzonder stap 1)."
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:310
+msgid "Free"
+msgstr "Gratis"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:311
+msgid "Pro"
+msgstr "Pro"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:326
+msgid "Super Easy Setup"
+msgstr "Zeer eenvoudige Setup"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:334
+msgid "Lightweight"
+msgstr "Licht"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:342
+msgid "Display By Username"
+msgstr "Toon via Gebruikersnaam"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:350
+msgid "Number of posts"
+msgstr "Aantal posts"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:358
+msgid "View on Instagram link"
+msgstr "Bekijk via de Instagram link"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:366
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:382
+msgid "Display By Tags"
+msgstr "Toon via Tags"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:390
+msgid "Multiple Instagram Feeds"
+msgstr "Meer Instagram feeds"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:398
+msgid "Layout Options"
+msgstr "Lay out optie"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:406
+msgid "Column Option"
+msgstr "Kolom optie"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:414
+msgid "Load More Option"
+msgstr "Bekijk meer optie"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:430
+msgid "Link to Post Option"
+msgstr "Link naar de Post optie"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:438
+msgid "Hide Load More"
+msgstr "Verberg “bekijk meer”"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:446
+msgid "Editable load more/view on instagram text"
+msgstr "Bewerkbare bekijk meer/bekijk op Instagram tekst"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:470
+msgid "Ads-free Dashboard"
+msgstr "Dashboard zonder advertenties"
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:492
+#, php-format
+msgid ""
+"If you have any request queries, please visit <a href=\"%s\" target=\"_blank"
+"\">this link</a>."
+msgstr ""
+"Als je een verzoek hebt, klik op <a href=“%s” target=“_blank”>deze link</a>."
+
+#: ../admin/partials/footer.php:4
+msgid "Catch Plugins"
+msgstr "Catch Plugins"
+
+#: ../admin/partials/footer.php:9
+msgid "View Themes"
+msgstr "Zie thema’s"
+
+#: ../admin/partials/footer.php:10
+msgid "View Plugins"
+msgstr "Zie Plugins"
+
+#: ../admin/partials/footer.php:11
+msgid "Support"
+msgstr "Support"
+
+#: ../admin/partials/sidebar.php:3
+msgid "Recommendations"
+msgstr "Aanbevelingen"
+
+#: ../admin/partials/sidebar.php:7
+msgid "Get Social Gallery and Widget Pro"
+msgstr "Koop Social Gallery and Widget Pro"
+
+#: ../admin/partials/sidebar.php:23
+msgid "Get Now"
+msgstr "Koop nu"
+
+#: ../admin/partials/sidebar.php:30
+msgid "Premium Themes"
+msgstr "Pre"
+
+#: ../admin/partials/sidebar.php:31
+msgid ""
+"Check out our simple, clean and responsive Premium WordPress Themes that "
+"come with an array of crucial features with a superior functionality."
+msgstr ""
+"Bekijk onze simpele, zuivere an responsie Premium Wordpress Thema’s, "
+"voorzien van een reeks cruciale eigenschappen met superieure functionaliteit."
+
+#: ../admin/partials/sidebar.php:31
+msgid "Check our premium themes."
+msgstr "Bekijk onze Premium thema’s."
+
+#: ../admin/partials/sidebar.php:38
+msgid "Free Themes"
+msgstr "Gratis Thema’s"
+
+#: ../admin/partials/sidebar.php:39
+msgid ""
+"Check out our collection of Free WordPress Themes that are clean, simple and "
+"feature-rich."
+msgstr ""
+"Bekijk onze Gratis wordpress Thema’s. En ontdek dat ze zuiver, eenvoudig en "
+"rijk aan mogelijkheden zijn."
+
+#: ../admin/partials/sidebar.php:39
+msgid "Check our free themes."
+msgstr "Bekijk onze gratis thema’s."
+
+#: ../admin/partials/sidebar.php:47
+msgid "Premium Plugins"
+msgstr "Premium plugins"
+
+#: ../admin/partials/sidebar.php:48
+msgid ""
+"Check out our secured Premium WordPress Plugins to enhance and add extra "
+"functionalities to your website. An exceptional way to get the most out of "
+"WordPress!"
+msgstr ""
+"Bekijk onze veilige Premium Wordpress Plugins om  jouw website uit te "
+"breiden door extra functionaliteit toe te voegen. Een mooie manier om het "
+"meeste uit Wordpress te halen!"
+
+#: ../admin/partials/sidebar.php:48
+msgid "Check our premium plugins."
+msgstr "Bekijk onze premium plugins."
+
+#: ../admin/partials/sidebar.php:56
+msgid "Free Plugins"
+msgstr "Gratis plugins"
+
+#: ../admin/partials/sidebar.php:57
+msgid ""
+"Check out our Free WordPress Plugins and get the taste of our service "
+"without affecting your wallet."
+msgstr ""
+"Bekijk onze Gratis Wordpress Plugins en ervaar onze plugins en service "
+"zonder dat het een cent kost."
+
+#: ../admin/partials/sidebar.php:58
+msgid "check our free plugins."
+msgstr "bekijk onze gratis plugins."
+
+#: ../catch-instagram-feed-gallery-widget.php:60
+#, php-format
+msgid ""
+"Sorry, Pro plugin is already active. No need to activate Free version. "
+"%1$s&laquo; Return to Plugins%2$s."
+msgstr ""
+"Sorry. De pro versie is al actief. Het is niet nodig om de gratis versie te "
+"activeren.  %1$s&laquo; Ga terig naar Plugins%2$s."
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:49
+msgid "Add Social Gallery & Widget Shortcodes"
+msgstr "Voeg Social Gallery & Widgets Shortcodes toe"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:147
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:85
+msgid "Title"
+msgstr "Titel"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:152
+msgid "Instagram Username"
+msgstr "Instagram gebruikersnaam"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:155
+msgid "More Options"
+msgstr "Meer opties"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:159
+msgid "Number of items"
+msgstr "Aantal items"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:162
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:112
+msgid "Max is 30."
+msgstr "Maximaal 30."
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:167
+msgid "Insert Shortcode"
+msgstr "Voeg stortcode in"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:99
+msgid "Please connect an instagram account from the dashboard."
+msgstr ""
+"Verbindt alsjeblieft de plugin met een Instagram account uit het dashboard."
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:114
+msgid "No Data"
+msgstr "Geen gegevens"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:118
+msgid "Provide API access token / Username"
+msgstr "Geef jouw API acces token / Gebruikersnaam op"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:186
+#: ../includes/class-catch-instagram-feed-gallery-widget-shortcode.php:49
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:52
+msgid "View on Instagram"
+msgstr "Zie meer op Instagram"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:189
+msgid "No data / Invalid Username"
+msgstr "Geen gegevens / ongeldige gebruikersnaam"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-shortcode.php:39
+msgid "Gallery and Widget for Instagram"
+msgstr "Gallery and widget voor Instagram"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:57
+msgid "Displays your latest Instagram feed as Gallery and Widget"
+msgstr "Laat jouw nieuwste Instagram feed zien als Gallery and widget"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:90
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:100
+#, php-format
+msgid "Please fetch access token %1$shere%2$s"
+msgstr "Haal je acces token  %1$shere%2$s op"
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:109
+msgid "Number of photos"
+msgstr "Aantal foto’s"
+
+#: ../includes/ctp-tabs-removal.php:59
+#, fuzzy
+#| msgid "Invalid Nonce!"
+msgid "Invalid Nonce"
+msgstr "Verkeerde Nonce!"
+
+#: ../includes/ctp-tabs-removal.php:62
+msgid "Permission denied!"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:75
+msgid "Connection Error. Please try again."
+msgstr "Verbindingsfout. Probeer het opnieuw alsjeblieft."
